@@ -1,0 +1,6 @@
+venv/
+myapp/__pycache__/
+mywebsite/__pycache__/
+.vscode/
+
+
